@@ -5,29 +5,11 @@
 - Identify factors that are associated with churn, such as gender, senior citizen status, partner status, dependents, number of services booked, paperless billing, payment method, contract type, monthly charges, total charges, and tenure.
 - Develop a machine learning model to predict customer churn.
 
-#### Challenges:
-- The dataset is large and contains missing values and different data types.
-- It is not possible to maintain the dataset in Excel or a spreadsheet.
-
-#### Methodology / Analytic Technique:
-- Exploratory analysis (graph analysis) will be used to identify patterns and trends in the data.
-- Descriptive statistics will be used to summarize the data and identify key metrics.
-- Classification models will be used to identify factors that are associated with churn.
-- Statistical analysis will be used to test the significance of the findings.
-
-#### Business Benefit:
-- Increased understanding of customer churn drivers
-- Improved ability to predict customer churn
-- Development of targeted interventions to reduce churn
-- Increased customer retention and revenue
-
 #### Expected Outcome:
 - A comprehensive understanding of customer churn drivers
 - A machine learning model that can accurately predict customer churn
 - Recommendations for targeted interventions to reduce churn
 - Increased customer retention and revenue
-
-
 
 # Business Understanding
 * A telephone company, also known as a telco, telephone service provider, or telecommunications operator, is a kind of communications service provider, more precisely a telecommunications service provider, that provides telecommunications services such as telephony and data communications access.
@@ -36,7 +18,7 @@
 This case requires data-driven answers to the following questions:
 * How many customers are churning?
 * What's the insight on churn and non-churn customers based on customers demographic info such as gender, senior citizen, partner, and dependents?
-* What's the insight on churn and non-churn customers based on customer services booked  such as phone service multiple lines, internet service, online security, online backup, device protection, tech support, streaming TV and streaming movies?
+* What's the insight on churn and non-churn customers based on customer services booked  such as phone service, multiple lines, internet service, online security, online backup, device protection, tech support, streaming TV and streaming movies?
 * What's the insight on churn and non-churn customers based on customer account information such as paperless billing, payment method, and contract?
 * Is there a relationship between monthly charges, total charges, and tenure on churn rate?
 
